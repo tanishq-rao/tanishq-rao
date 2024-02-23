@@ -1,4 +1,4 @@
-![Alt text]([https://i.imgur.com/YBxjw35.png)
+![ABOUT ME!](images/about_me_gituhb.png)
 
 ### Hi there!
 
