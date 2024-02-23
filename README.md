@@ -1,4 +1,4 @@
-![ABOUT ME!](tanishq-rao/images/about_me_github.png)
+![ABOUT ME!](images/about_me_github.png)
 
 ### Hi there!
 
