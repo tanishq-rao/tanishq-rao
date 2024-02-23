@@ -12,4 +12,4 @@ Here are some facts about me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Your doggo can smell your feelings . In fact, your dog's sense of smell is approximately 100,000 times better than yours.
 
-  Have a wonderful day!
+Have a wonderful day!
