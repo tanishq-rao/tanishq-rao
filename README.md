@@ -2,7 +2,7 @@
 
 Here are some facts about me:
 
-- 🔭 I’m currentlya high school student.
+- 🔭 I’m currently a high school student.
 - 🌱 I’m currently learning how to program in Python with plans of branching out to golang and artifical intelligence.
 - 🤔 I’m looking for help with how to cook perfect soft boiled eggs.
 - 💬 Ask me about videos games, computer hardware etc.
